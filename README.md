@@ -3,4 +3,6 @@ The aim of the project was to revolutionize beauty personalization & experience 
 
 Course: Strategy & Marketing at Politecnico di Milano (a.a.: 2021/2022)
 
+## Youtube Video
+Click on the image to watch the Youtube video!
 ![IMAGE ALT TEXT HERE](https://github.com/fillics/Strategy-Marketing-Project/blob/main/Screen.png)
